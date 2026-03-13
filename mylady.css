@@ -1,0 +1,134 @@
+body {
+  background: black;
+  color: white;
+  overflow-y: none;
+  scroll-behavior: smooth;
+}
+
+#particles-js {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 400vw;
+}
+footer{
+    text-align: center;
+}
+#tony-pepper1{
+    position: relative;
+    right: 350px;
+    border-radius: 20px;
+    width: 200px;
+    height: 250px;
+}
+
+#tony-pepper2{
+    position: relative;
+    left: 350px;
+    border-radius: 20px 2px;
+    width: 200px;
+    height: 250px;
+}
+#niffty-baxter1{
+    position: relative;
+    right: 300px;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+}
+#niffty-baxter2{
+    position: relative;
+    left: 350px;
+    border-radius: 20px 2px;
+    width: 200px;
+    height: 250px;
+}
+#niffty-baxter3{
+    position: relative;
+    right: 300px;
+    border-radius: 20px 2px;
+    width: 200px;
+    height: 250px;
+}
+#bryan-mia1{
+    position: relative;
+    left: 300px;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+}
+#bryan-mia2{
+    position: relative;
+    right: 300px;
+    border-radius: 20px 2px;
+    width: 200px;
+    height: 250px;
+}
+#simba-nala1{
+    position: relative;
+    left: 300px;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+}
+#simba-nala2{
+    position: relative;
+    right: 300px;
+    border-radius: 20px 2px;
+    width: 200px;
+    height: 250px;
+}
+#simba-nala3{
+    position: relative;
+    left: 300px;
+    border-radius: 20px 2px;
+    width: 200px;
+    height: 250px;
+}
+#david-lucy1{
+    position: relative;
+    right: 300px;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+}
+#david-lucy2{
+    position: relative;
+    left: 300px;
+    border-radius: 20px 2px;
+    width: 200px;
+    height: 250px;
+}
+#david-lucy3{
+    position: relative;
+    right: 300px;
+    border-radius: 20px 2px;
+    width: 250px;
+    height: 400px;
+}
+#mark-eve1{
+    position: relative;
+    right: 300px;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+}
+#mark-eve2{
+    position: relative;
+    left: 350px;
+    border-radius: 20px 2px;
+    width: 200px;
+    height: 250px;
+}
