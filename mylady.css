@@ -3,6 +3,7 @@ body {
   color: white;
   overflow-y: none;
   scroll-behavior: smooth;
+  height: 100%;
 }
 
 #particles-js {
