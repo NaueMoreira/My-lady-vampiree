@@ -4,6 +4,7 @@ body {
   overflow-y: none;
   scroll-behavior: smooth;
   height: 100vw;
+  max-height: 100%;
 }
 
 #particles-js {
@@ -44,14 +45,15 @@ footer{
 }
 #niffty-baxter1{
     position: relative;
-    right: 60%;
+    right: 6%;
     border-radius: 20px;
     width: 250px;
     height: 250px;
+    max-width: 100%;
 }
 #niffty-baxter2{
     position: relative;
-    left: 350px;
+    left: 3%;
     border-radius: 20px 2px;
     width: 200px;
     height: 250px;
